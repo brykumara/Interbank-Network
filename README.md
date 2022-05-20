@@ -7,4 +7,4 @@ distributional properties of balance sheets and interbank claims, and described 
 2. Perform a stress test using the Furfine Algorithm.
 3. Perform a fire-sale test where parts of the external assets of each node is invested in a common asset and fire sales can devalue shared external assets.
 
-We made our own scenarios for initial exogenous shocks, the recovery rate, and liquidity of external assets for this report. 
+We made our own scenarios for initial exogenous shocks, the recovery rate, and liquidity of external assets for this report. The final grade classification of this report is a distinction.
