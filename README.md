@@ -1,5 +1,5 @@
 # Interbank-Network
-This is a submission I made for the individual coursework of COMP0046 Networks and Systemic Risk at UCL during my master's degree from 2021 to 2022.
+This is a submission I made for the individual coursework of COMP0046 Networks and Systemic Risk at UCL during my master's degree from 2021 to 2022. The final score of this coursework is a Distinction.
 
 The task was to create a report of around 2500 words examining an interbank network containing external assets, interbank liabilities, and bank equities. We examined how they reacted to financial shocks and fire sale scenarios. The report was divided into three parts:
 1. You should Presented a statistical characterization of the system for what concern the
